@@ -6,10 +6,7 @@ from core.config import settings
 
 
 app = FastAPI()
-app.include_router(
-    api_router,
-    prefix='/api'
-)
+app.include_router(api_router)
 
 
 if __name__ == '__main__':
