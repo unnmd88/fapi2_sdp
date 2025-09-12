@@ -9,6 +9,7 @@ from pydantic_settings import BaseSettings
 BASE_DIR = Path(__file__).resolve().parent.parent
 MEDIA_URL = BASE_DIR / 'media'
 UPLOADS_URL = BASE_DIR / 'media/uploads'
+PASSPORTS_DIR = BASE_DIR / 'media/uploads/passports'
 
 
 class RunConfig(BaseModel):
@@ -36,4 +37,7 @@ settings = Settings()
 
 uploads_dir = Path(UPLOADS_URL)
 uploads_dir.mkdir(parents=True, exist_ok=True)
+passports_dir = Path(PASSPORTS_DIR)
+passports_dir.mkdir(parents=True, exist_ok=True)
+
 
