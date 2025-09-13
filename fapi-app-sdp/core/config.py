@@ -29,6 +29,7 @@ class ApiPrefix(BaseModel):
 
 class Settings(BaseSettings):
     run: RunConfig = RunConfig()
+    run_deb_vbox: RunConfig = RunConfig(host='192.168.45.93', port=8181)
     api: ApiPrefix = ApiPrefix()
 
 

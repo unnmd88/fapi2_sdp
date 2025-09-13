@@ -8,6 +8,7 @@ from starlette.responses import HTMLResponse
 from core.config import UPLOADS_URL
 from utils.async_write_files import write_passport_docx
 
+
 router = APIRouter(tags=['Passport'])
 DIR_NAME = UPLOADS_URL / 'passport'
 
@@ -24,6 +25,8 @@ async def upload_docx(
     }
 
 
-@router.get("/", response_class=HTMLResponse)
+@router.get("/")
 async def main(request: Request):
-    pass
+    return {
+        'res': 'hello from sdp-api'
+    }
