@@ -1,0 +1,4983 @@
+{
+    "tables": {
+        "directions": {
+            "geometry": {
+                "col_length": 15,
+                "num_rows": 48,
+                "ok": true
+            },
+            "head_rows": [
+                [
+                    "№ нап.",
+                    "Тип направления",
+                    "Фазы, в кот. участ. направ.",
+                    "Светофоры",
+                    "\"Запрет\"",
+                    "\"Запрет\"",
+                    "\"Запрет\"",
+                    "\"Запрет\"",
+                    "\"Разрешение\"",
+                    "\"Разрешение\"",
+                    "\"Разрешение\"",
+                    "Пост. красное",
+                    "ТООВ",
+                    "ТООВ",
+                    "Примечание"
+                ],
+                [
+                    "№ нап.",
+                    "Тип направления",
+                    "Фазы, в кот. участ. направ.",
+                    "Светофоры",
+                    "Тзд",
+                    "Тзм",
+                    "Тж",
+                    "Тк",
+                    "Ткж",
+                    "Тз",
+                    "Тзз",
+                    "Пост. красное",
+                    "Красн.",
+                    "Зелен.",
+                    ""
+                ]
+            ],
+            "data_rows": [
+                [
+                    {
+                        "value": "1",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Транспортное",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "1,2,5",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Тр. 1,2",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "1",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Выкл.",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Выкл.",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    }
+                ],
+                [
+                    {
+                        "value": "2",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Поворотное",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "1",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "д/с 127,128",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "-",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "-",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    }
+                ],
+                [
+                    {
+                        "value": "3",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Транспортное",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "1,2",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Тр. 13,14,15",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "1",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Выкл.",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Выкл.",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    }
+                ],
+                [
+                    {
+                        "value": "4",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Поворотное",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "2,3,4,5",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "д/с 17,18,19",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "-",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "-",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    }
+                ],
+                [
+                    {
+                        "value": "5",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Ячейка пуста "
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Нет номеров светофоров"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    }
+                ],
+                [
+                    {
+                        "value": "6",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Пешеходное",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3,4",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Пеш. 40,41,45,46",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Выкл.",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Вкл.",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    }
+                ],
+                [
+                    {
+                        "value": "7",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Ячейка пуста "
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Нет номеров светофоров"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    }
+                ],
+                [
+                    {
+                        "value": "8",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Транспортное",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "1,2,5",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Тр. 37,38",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "1",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Выкл.",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Выкл.",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    }
+                ],
+                [
+                    {
+                        "value": "9",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Транспортное",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "1,2,5",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Тр. 42,43",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "1",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Выкл.",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Выкл.",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    }
+                ],
+                [
+                    {
+                        "value": "10",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Ячейка пуста "
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Нет номеров светофоров"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    }
+                ],
+                [
+                    {
+                        "value": "11",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Транспортное",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "1,2",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Тр. 47,50",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "1",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Выкл.",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Выкл.",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    }
+                ],
+                [
+                    {
+                        "value": "12",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Ячейка пуста "
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Нет номеров светофоров"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    }
+                ],
+                [
+                    {
+                        "value": "13",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Пешеходное",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "1,2",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Пеш. 29,32",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "6",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Выкл.",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Вкл.",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    }
+                ],
+                [
+                    {
+                        "value": "14",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Пешеходное",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "1,2,5",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Пеш. 11,12,5,59,104,105",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Выкл.",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Вкл.",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    }
+                ],
+                [
+                    {
+                        "value": "15",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Транспортное",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "1,2,5",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Тр. 64,65,66",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "1",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Выкл.",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Выкл.",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    }
+                ],
+                [
+                    {
+                        "value": "16",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Поворотное",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "1,2,3,",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [
+                            "Ошибка \",\" в строке"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "д/с 69,70,71",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "-",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "-",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    }
+                ],
+                [
+                    {
+                        "value": "17",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Велосипед",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [
+                            "Опечатка в названии"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "5",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Велh. 75",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Неверный тип светофора"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "1",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Выкл.",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Выкл.",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    }
+                ],
+                [
+                    {
+                        "value": "18",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Транспортное",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "2,3,4",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Тр. 80,81,82",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "1",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Выкл.",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Выкл.",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    }
+                ],
+                [
+                    {
+                        "value": "19",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Транспортное",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "2,3,4",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Тр. 84,85,86",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "1",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Выкл.",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Выкл.",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    }
+                ],
+                [
+                    {
+                        "value": "20",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Поворотное",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "1,2,4",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "д/с 95,96,97",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "6",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "-",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "-",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    }
+                ],
+                [
+                    {
+                        "value": "21",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Транспортное",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "2,3,4,5",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Тр. 106,107,108",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "1",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Выкл.",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Выкл.",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    }
+                ],
+                [
+                    {
+                        "value": "22",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Транспортное",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "2,3,4,5",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Тр. 115,116,118",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "1",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "5",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Выкл.",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Выкл.",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    }
+                ],
+                [
+                    {
+                        "value": "23",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Пешеходное",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "2,3,4,5",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Пеш. 123,124",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Выкл.",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Выкл.",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    }
+                ],
+                [
+                    {
+                        "value": "24",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Ячейка пуста "
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Нет номеров светофоров"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    }
+                ],
+                [
+                    {
+                        "value": "25",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Ячейка пуста "
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Нет номеров светофоров"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    }
+                ],
+                [
+                    {
+                        "value": "26",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Велосипед",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [
+                            "Опечатка в названии"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "1",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Вел. 25",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "1",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Выкл.",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Выкл.",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    }
+                ],
+                [
+                    {
+                        "value": "27",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Пешеходное",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "1",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Пеш. 27,28",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "6",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Выкл.",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Вкл.",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    }
+                ],
+                [
+                    {
+                        "value": "28",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Пешеходное",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "1,5",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Пеш. 88,89,90,91",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Выкл.",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Вкл.",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    }
+                ],
+                [
+                    {
+                        "value": "29",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Поворотное",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "1",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "д/с 110,111,112,119,\n120,122",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "6",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "-",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "-",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    }
+                ],
+                [
+                    {
+                        "value": "30",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Ячейка пуста "
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Нет номеров светофоров"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    }
+                ],
+                [
+                    {
+                        "value": "31",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Пешеходное",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3,4",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Пеш. 4,5",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Выкл.",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Вкл.",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    }
+                ],
+                [
+                    {
+                        "value": "32",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Ячейка пуста "
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Нет номеров светофоров"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    }
+                ],
+                [
+                    {
+                        "value": "33",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Ячейка пуста "
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Нет номеров светофоров"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    }
+                ],
+                [
+                    {
+                        "value": "34",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Пешеходное",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Пеш. 78,79",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Выкл.",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Вкл.",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    }
+                ],
+                [
+                    {
+                        "value": "35",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Ячейка пуста "
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Нет номеров светофоров"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    }
+                ],
+                [
+                    {
+                        "value": "36",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Транспортное",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3,4",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Тр. 9,10,92,93,94",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "1",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Выкл.",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Выкл.",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    }
+                ],
+                [
+                    {
+                        "value": "37",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Ячейка пуста "
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Нет номеров светофоров"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    }
+                ],
+                [
+                    {
+                        "value": "38",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Поворотное",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "д/с 21,22,23",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "-",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "-",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    }
+                ],
+                [
+                    {
+                        "value": "39",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Поворотное",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3,4,5",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "д/с 62,63",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "-",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "-",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    }
+                ],
+                [
+                    {
+                        "value": "40",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Транспортное",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3,4",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Тр. 55,57",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "1",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Выкл.",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Выкл.",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    }
+                ],
+                [
+                    {
+                        "value": "41",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Транспортное",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3,4,5",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Тр. 33,34",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "1",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Выкл.",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Выкл.",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    }
+                ],
+                [
+                    {
+                        "value": "42",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Пешеходное",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3,4,5",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Пеш. 35,36,53,54",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Выкл.",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Вкл.",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    }
+                ],
+                [
+                    {
+                        "value": "43",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Ячейка пуста "
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Нет номеров светофоров"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [
+                            "Значение не является числом"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    }
+                ],
+                [
+                    {
+                        "value": "45",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "Общ. трансп.",
+                        "text_is_valid": true,
+                        "ctx_is_valid": true,
+                        "errors": [
+                            "Опечатка в названии"
+                        ],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3,4",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "б/л 72",
+                        "text_is_valid": false,
+                        "ctx_is_valid": false,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "3",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "0",
+                        "text_is_valid": true,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "-",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "-",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    },
+                    {
+                        "value": "",
+                        "text_is_valid": null,
+                        "ctx_is_valid": null,
+                        "errors": [],
+                        "warnings": []
+                    }
+                ]
+            ]
+        }
+    }
+}
