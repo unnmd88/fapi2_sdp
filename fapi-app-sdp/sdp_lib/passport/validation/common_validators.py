@@ -62,7 +62,9 @@ def check_is_directions_table(rows: _Rows) -> bool:
         cell_t_green_ext = (int(rows[2].cells[5].text) - 3)
         assert cell_num_group - 1  >= 0
         assert cell_t_green_ext >= 0
-    except (AssertionError, ValueError):
+    except (ValueError):
+        print(f'AssertionError, ValueError: {first_and_second_rows_is_head}')
+
         return False
     return True
 

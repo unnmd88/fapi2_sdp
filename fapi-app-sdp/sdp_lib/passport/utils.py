@@ -54,7 +54,7 @@ def found_pos_start_num(src: Iterable[str]) -> int | None:
     return None
 
 
-def _display_all_tables(doc_x):
+def display_all_tables(doc_x):
     """ Выводит на экран данные всех таблиц doc(x) файла. """
     for i, table in enumerate(doc_x.tables, 1):
         print(f'-- Start Table {i} --')
@@ -74,4 +74,4 @@ if __name__ == '__main__':
     path7 = '/home/auser/py.projects/sdp_lib/sdp_lib/passport/СО_72_Тургеневская_пл_Мясницкая_ул_Сретенский_б_р_Чистопрудный_б.docx'
 
     doc = Document(path7)
-    _display_all_tables(doc)
+    display_all_tables(doc)
