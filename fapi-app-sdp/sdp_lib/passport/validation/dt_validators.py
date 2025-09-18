@@ -275,8 +275,9 @@ if __name__ == '__main__':
     path4 = "C:\Programms\py.projects\sdp_lib\sdp_lib\passport\СО_2094_ул_Островитянова_ул_Ак_Волгина (2).docx"
     path5 = '/home/auser/py.projects/sdp_lib/sdp_lib/passport/СО_2094_ул_Островитянова_ул_Ак_Волгина_2.docx'
     path6 = '/home/auser/py.projects/sdp_lib/sdp_lib/passport/passport2/validation/ПД Паспорт шаблон 2025.docx'
+    path7 = "C:\Programms\py.projects\sdp_lib\sdp_lib\passport\СО_4427_Зеленоград_Филаретовская_улица,_улица_Болдов_Ручей_21_11 (3).docx"
 
-    doc = Document(path5)
+    doc = Document(path7)
     # c = CheckListTable()
-    validate_and_create_directions_table(0, doc.tables[0])
-
+    print(validate_and_create_directions_table(0, doc.tables[0]))
+    doc.save('cada.docx')
