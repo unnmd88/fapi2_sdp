@@ -8,7 +8,7 @@ from sdp_lib.passport.base import TheTable
 class Passport:
     def __init__(
             self,
-            filename: str,
+            filename: str | Path,
             docx: Document,
             direction_table: TheTable = None,
     ):
