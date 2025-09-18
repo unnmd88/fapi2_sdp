@@ -74,4 +74,4 @@ if __name__ == '__main__':
     path7 = '/home/auser/py.projects/sdp_lib/sdp_lib/passport/СО_72_Тургеневская_пл_Мясницкая_ул_Сретенский_б_р_Чистопрудный_б.docx'
 
     doc = Document(path7)
-    display_all_tables(doc)
+    _display_all_tables(doc)
